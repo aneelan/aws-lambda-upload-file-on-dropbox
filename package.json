@@ -4,7 +4,10 @@
   "description": "",
   "main": "handler.js",
   "dependencies": {
+    "bl": "^1.2.1",
     "dropbox": "^2.5.13",
+    "http": "0.0.0",
+    "https": "^1.0.0",
     "stream": "0.0.2"
   },
   "devDependencies": {},
